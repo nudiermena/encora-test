@@ -1,0 +1,15 @@
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\bin\Debug\net6.0\StringManipulation.Program.exe
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\bin\Debug\net6.0\StringManipulation.Program.deps.json
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\bin\Debug\net6.0\StringManipulation.Program.runtimeconfig.json
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\bin\Debug\net6.0\StringManipulation.Program.dll
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\bin\Debug\net6.0\StringManipulation.Program.pdb
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.csproj.AssemblyReference.cache
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.AssemblyInfoInputs.cache
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.AssemblyInfo.cs
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.csproj.CoreCompileInputs.cache
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.dll
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\refint\StringManipulation.Program.dll
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.pdb
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\StringManipulation.Program.genruntimeconfig.cache
+C:\Users\nudie\source\repos\StringManipulation.Encora\StringManipulation.Program\obj\Debug\net6.0\ref\StringManipulation.Program.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation.Program", "StringManipulation.Program\StringManipulation.Program.csproj", "{AB293BC6-4B48-47F0-991F-163A0F84750D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation.Testing", "StringManipulation.Testing\StringManipulation.Testing.csproj", "{B1E64602-30C5-4526-A57D-3248E79CAE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB293BC6-4B48-47F0-991F-163A0F84750D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB293BC6-4B48-47F0-991F-163A0F84750D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB293BC6-4B48-47F0-991F-163A0F84750D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB293BC6-4B48-47F0-991F-163A0F84750D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E64602-30C5-4526-A57D-3248E79CAE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E64602-30C5-4526-A57D-3248E79CAE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E64602-30C5-4526-A57D-3248E79CAE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E64602-30C5-4526-A57D-3248E79CAE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA5FDA2D-7F63-4462-B37C-D21C124E497F}
+	EndGlobalSection
+EndGlobal
